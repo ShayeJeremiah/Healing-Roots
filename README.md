@@ -19,3 +19,5 @@ Steps to View our coded application
 4. Click Import and View App
 
 *NB: There is also a brief video demonstration also included in our PowerPoint presentation and a longer video in our supplemental files.
+
+Full Demo Video: https://drive.google.com/file/d/1ag0ZxwVymWAPCu4kxEL1gqdRN25jSGRp/view
